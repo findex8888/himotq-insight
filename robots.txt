@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://findex8888.github.io/himotq-insight/sitemap.xml
